@@ -1,0 +1,15 @@
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\bin\Debug\net6.0\exercicio-3.exe
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\bin\Debug\net6.0\exercicio-3.deps.json
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\bin\Debug\net6.0\exercicio-3.runtimeconfig.json
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\bin\Debug\net6.0\exercicio-3.dll
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\bin\Debug\net6.0\exercicio-3.pdb
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.csproj.AssemblyReference.cache
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.AssemblyInfoInputs.cache
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.AssemblyInfo.cs
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.csproj.CoreCompileInputs.cache
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.dll
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\refint\exercicio-3.dll
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.pdb
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\exercicio-3.genruntimeconfig.cache
+D:\workspace\repositorio-etapa-tecnica-gft\exercicio-3\obj\Debug\net6.0\ref\exercicio-3.dll

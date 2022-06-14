@@ -1,5 +1,4 @@
 ﻿using System;
-using exercicio_1.Models;
 
 namespace exercicio1
 {
@@ -7,13 +6,7 @@ namespace exercicio1
     {
         static void Main(string[] args)
         {
-            Pessoa p = new Pessoa();
-            p.CPF = "123.456.789-10";
-            p.nome = "Julia Gubolin";
-            p.idade = 20;
-
-            Professor prof = new Professor();
-            prof.CPF = "2345";
+             
         }
     }
 }
