@@ -30,10 +30,12 @@ namespace exercicio3
             }
 
             mediaIdades = somaIdades/tamanho;
-            Console.WriteLine($"A média das idades é: {mediaIdades}.");
+            double qtdPessoasPercentagem = Convert.ToDouble(qtdPessoas1);
+            double tamanhoAux = Convert.ToDouble(tamanho);
+            double resultado = qtdPessoas1/tamanho;
+            Console.WriteLine($"A média das idades é: {mediaIdades.ToString("N2")}.");
             Console.WriteLine($"A quantidade de pessoas com peso superior a 90 quilos e altura inferior a 1.50 é: {qtdPessoas}.");
-            Console.WriteLine($"A porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1.90 é: {Convert.ToDouble(qtdPessoas1/tamanho)*100}%.");
-            Console.WriteLine($"A média das idades é: {Convert.ToDouble(qtdPessoas1/tamanho)}.");
+            Console.WriteLine($"A porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1.90 é: {(resultado)}.");
         }
     }
 }
